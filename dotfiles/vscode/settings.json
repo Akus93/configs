@@ -1,0 +1,15 @@
+{
+    "files.autoSave": "onFocusChange",
+    "breadcrumbs.enabled": true,
+    "editor.minimap.enabled": false,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "editor.formatOnPaste": true,
+    "editor.rulers": [
+        120
+    ],
+    "editor.renderLineHighlight": "all",
+    "window.menuBarVisibility": "visible",
+    "terminal.external.linuxExec": "alacritty",
+    "terminal.integrated.shell.linux": "/bin/fish"
+}
