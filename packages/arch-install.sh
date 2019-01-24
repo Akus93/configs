@@ -4,4 +4,5 @@ sudo pacman -S --noconfirm \
     git \
     zsh \
     fish \
-    alacritty
+    alacritty \
+    fortune-mod
